@@ -16,3 +16,4 @@ This project analyzes Adidas sales data using **Python** for data cleaning and *
 ## 🛠️ Tools Used
 - **Python** (Jupyter Notebook) - Data Cleaning
 - **Power BI** - Data Visualization
+- ![Adidas Sales Dashboard](Screenshot%202026-04-22%20193351.png)
